@@ -1,0 +1,9 @@
+{
+  "name": "evermorn-cucumber-tests",
+  "version": "1.0.0",
+  "description": "Dependencies for Evermorn Cucumber automation layer",
+  "private": true,
+  "dependencies": {
+  }
+}
+
